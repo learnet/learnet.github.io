@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>鹿苏子</title>
+        <link>https://learnet.github.io/</link>
+        <description>专注于数据分析。</description>
+        <generator>Hugo 0.84.4 https://gohugo.io/</generator>
+        
+            <language>zh-CN</language>
+        
+        
+            <managingEditor>letter_chat@outlook.com (鹿苏子)</managingEditor>
+        
+        
+            <webMaster>letter_chat@outlook.com (鹿苏子)</webMaster>
+        
+        
+            <copyright>[署名 非商用 CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+        
+        <lastBuildDate>Sat, 03 Jul 2021 16:24:13 &#43;0800</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://learnet.github.io/rss.xml" />
+        
+        
+    </channel>
+</rss>
